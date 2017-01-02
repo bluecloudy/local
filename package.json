@@ -53,7 +53,7 @@
     "winston": "^2.2.0"
   },
   "peerDependencies": {
-    "apollo-passport": "^0.0.2",
+    "apollo-passport": "^0.0.7",
     "graphql-tag": "^0.1.7",
     "regenerator-runtime": "^0.9.5"
   },
